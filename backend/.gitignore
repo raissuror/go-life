@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extension files
+*.so
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Editor files
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+.vscode/
+.idea/
+
+# Pytest
+.pytest_cache/
+
+# Environment variable files
+.env
+
+# Logs and outputs
+*.log
+
+# MyPy and Coverage
+.mypy_cache/
+.coverage
+htmlcov/
+
+# SQLite (optional, if used for dev)
+*.sqlite3
+
+# System-specific
+.DS_Store
+Thumbs.db
