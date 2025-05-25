@@ -1,6 +1,6 @@
 # Go-Planner
 
-![Go-Planner Logo](media/logo.jpg)
+![Go-Planner Logo](media/logo.jpeg)
 
 ---
 
