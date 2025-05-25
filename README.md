@@ -1,6 +1,6 @@
 # Go-Planner
 
-![Go-Planner Logo](media/project-image.png)
+![Go-Planner Logo](media/logo.jpg)
 
 ---
 
@@ -102,14 +102,14 @@ Feel free to explore each folder for more detailed documentation and code.
 
 ## Screenshoot
 
-**Home Page**  
+## Home Page
 ![Home Page](media/home.jpeg)
 
-**Budgeting Page**  
+## Budgeting Page
 ![Budgeting Page](media/budget.jpeg)
 
-**Goride/Gocar Page**  
+## Goride/Gocar Page
 ![Gojek Page](media/gojek.jpeg)
 
-**Gofood Page**  
+## Gofood Page
 ![Gofood Page](media/gofood.jpeg)
