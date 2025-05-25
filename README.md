@@ -1,5 +1,15 @@
 # Go-Planner
 
+![Go-Planner Logo](media/project-image.png)
+
+---
+
+## System Flow
+
+![System Flow Logo](media/system-flow.png)
+
+---
+
 Go-Planner is a full-stack application inspired by super-apps like Gojek, providing personalized recommendations and budget management for users. The project is divided into two main parts:
 
 - **Backend**: Built with FastAPI (Python), serving as the API and business logic layer.
@@ -81,3 +91,21 @@ To set up and use a model from Alibaba Model Studio:
 This project is for educational and demonstration purposes, showcasing a simple architecture for a modern web application with clear separation between backend and frontend.
 
 Feel free to explore each folder for more detailed documentation and code. 
+
+---
+
+## Demo Video
+
+<video src="media/demo-video.mov" controls width="600"></video>
+
+---
+
+## Screenshoot
+
+![Home Page](media/home.jpeg)
+
+![Budgeting Page](media/budget.jpeg)
+
+![Gojek Page](media/gojek.jpeg)
+
+![Gofood Page](media/gofood.jpeg)

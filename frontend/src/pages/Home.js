@@ -2,12 +2,13 @@ import React from "react";
 import { BellIcon, UserCircleIcon, MagnifyingGlassIcon } from "@heroicons/react/24/outline";
 import ServiceMenu from "../components/ServiceMenu";
 import BottomNav from "../components/BottomNav";
+import { Link } from "react-router-dom";
 
 export default function Home() {
   return (
     <div className="min-h-screen pb-16 bg-gray-50">
       {/* Header */}
-      <div className="bg-gradient-to-br from-green-700 to-green-400 rounded-b-3xl p-6 text-white relative">
+      <div className="bg-gradient-to-br from-green-700 to-green-400 rounded-b-3xl p-6 text-white relative mb-12">
         <div className="flex justify-between items-center">
           <div className="flex-1 flex items-center bg-white rounded-full px-3 py-2">
             <MagnifyingGlassIcon className="w-5 h-5 text-gray-400 mr-2" />
@@ -17,7 +18,9 @@ export default function Home() {
             />
           </div>
           <BellIcon className="w-7 h-7 ml-4" />
-          <UserCircleIcon className="w-9 h-9 ml-2" />
+          <Link to="/set-budget">
+            <UserCircleIcon className="w-9 h-9 ml-2 cursor-pointer" />
+          </Link>
         </div>
         {/* Balance Card */}
         <div className="bg-white rounded-2xl shadow-lg p-4 mt-6 flex items-center justify-between">

@@ -1,5 +1,5 @@
 export async function fetchRecommendations({ app_context, user_id, weather, timestamp }) {
-  const res = await fetch("/recommend", {
+  const res = await fetch(`${process.env.REACT_APP_API_URL}/recommend`, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({
