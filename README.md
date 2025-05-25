@@ -96,16 +96,20 @@ Feel free to explore each folder for more detailed documentation and code.
 
 ## Demo Video
 
-<video src="media/demo-video.mov" controls width="600"></video>
+![Demo Video](media/demo-video.gif)
 
 ---
 
 ## Screenshoot
 
+**Home Page**  
 ![Home Page](media/home.jpeg)
 
+**Budgeting Page**  
 ![Budgeting Page](media/budget.jpeg)
 
+**Goride/Gocar Page**  
 ![Gojek Page](media/gojek.jpeg)
 
+**Gofood Page**  
 ![Gofood Page](media/gofood.jpeg)
